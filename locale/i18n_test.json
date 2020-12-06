@@ -1,0 +1,22 @@
+{
+    "app_name" : "YL Coin",
+    "login_title" : "Mobile Login",
+    "login_title_tip" : "No amendment can be made after registration of a country or region.",
+    "login_dropdownbutton_tip" : "Country",
+    "login_phone_hintText" : "Phone Number",
+    "login_loginbtn_text" : "Login",
+    "login_getcode_title" : "Input Verification Code",
+    "login_getcode_tip_normal" : "Send Code",
+    "login_getcode_tip_cooling" : "Resend Code",
+    "tab_title_lobby" : "Lobby",
+    "tab_title_change" : "Change",
+    "tab_title_rewardpool" : "RewardPool",
+    "tab_title_orepool" : "OrePool",
+    "tab_title_wallet" : "Wallet",
+    "homepage_gamelist_title" : "Games",
+    "homepage_reward_title" : "Yesterday's YL output",
+    "homepage_notice_title" : "Notice",
+    "homepage_notice_all" : "All",
+    "change_count_title" : "Change Count",
+    "change_count_hintText" : "Please Input Count"
+}
